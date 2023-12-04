@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\AspNetCore.SpaYarp\AspNetCore.SpaYarp.csproj" />
+    <ProjectReference Include="..\..\src\AspNetCore.MultiSpaYarp\AspNetCore.MultiSpaYarp.csproj" />
   </ItemGroup>
 
    <!-- Import target file manually. This is not needed if 'AspNetCore.SpaYarp' gets added via NuGet. --> 

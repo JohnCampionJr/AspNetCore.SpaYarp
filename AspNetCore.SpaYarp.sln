@@ -4,7 +4,7 @@ VisualStudioVersion = 17.0.31612.314
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net8WebApplicationBuilder", "samples\Net8WebApplicationBuilder\Net8WebApplicationBuilder.csproj", "{E3826EDD-0370-4A40-A1F9-1B07ABEBDDFD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore.SpaYarp", "src\AspNetCore.SpaYarp\AspNetCore.SpaYarp.csproj", "{03DE7E3B-0E21-49B5-8471-7E32E0A2D68C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore.MultiSpaYarp", "src\AspNetCore.MultiSpaYarp\AspNetCore.MultiSpaYarp.csproj", "{03DE7E3B-0E21-49B5-8471-7E32E0A2D68C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BE6CB10D-9F74-4BE6-8C8F-8BDCC8BA2C65}"
 	ProjectSection(SolutionItems) = preProject
